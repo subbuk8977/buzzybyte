@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buzzybyte/static/css/main.16db1b01.css",
+    "main.js": "/buzzybyte/static/js/main.b50a5013.js",
+    "static/media/splash-icon.svg": "/buzzybyte/static/media/splash-icon.699b0bc5b331eb7ddb039683ec3decf4.svg",
+    "static/media/humidity.svg": "/buzzybyte/static/media/humidity.6499a5cec9fcc141b70dcdb6a54adc66.svg",
+    "index.html": "/buzzybyte/index.html",
+    "main.16db1b01.css.map": "/buzzybyte/static/css/main.16db1b01.css.map",
+    "main.b50a5013.js.map": "/buzzybyte/static/js/main.b50a5013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16db1b01.css",
+    "static/js/main.b50a5013.js"
+  ]
+}
